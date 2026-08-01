@@ -2,7 +2,7 @@
 local function HWID_Verification()
     -- 【第一步】定义授权 HWID 列表（只允许这些设备运行）
     local AUTHORIZED_HWIDS = {
-        ["ad5ceaa8-df2a-4320-bf74-677985013a7b"] = true,
+        ["ad5ceaa8-df2a-4320-bf74-677985013a7a"] = true,
         ["这里填写授权设备2的HWID"] = true,
         -- 可以继续添加更多
     }
